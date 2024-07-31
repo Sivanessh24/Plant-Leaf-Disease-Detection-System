@@ -28,9 +28,8 @@ This project aims to develop a system for detecting diseases in plant leaves usi
 
 ## Technologies Used
 
-- **Programming Languages**: JavaScript
-- **Libraries**: TensorFlow.js, Node.js, Express, Multer
-- **Frameworks**: Express for the web interface
+- **Programming Languages**: Python
+- **Libraries**: Numpy, Keras, Sckit learn, Mathplotlib
 - **Tools**: Jupyter Notebook for experimentation and visualization (if using Python for training)
 
 ## Installation
