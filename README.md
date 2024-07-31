@@ -11,9 +11,6 @@
 7. [Model Training](#model-training)
 8. [Proposed Model](#proposed-model)
 9. [Experimental Results](#experimental-results)
-10. [Contributing](#contributing)
-11. [Acknowledgements](#acknowledgements)
-12. [Contact](#contact)
 
 ## Overview
 
@@ -132,27 +129,8 @@ The proposed model was tested on a tomato leaf disease dataset with 600 samples.
 
 The proposed model, using DWT, PCA, GLCM, and CNN, provides better accuracy compared to existing models.
 
-## Contributing
 
-Contributions are welcome! Please follow these steps:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
 
-## Acknowledgements
-
-- Thanks to [Kaggle](https://www.kaggle.com) for providing the dataset.
-- Inspiration from various open-source AI projects.
-
-## Contact
-
-For any inquiries, please contact:
-
-- Name: Sunhith Reddy
-- Email: iamtsr2004@gmail.com
-- Linkedin: www.linkedin.com/in/sunhith-reddy-t
 
 
